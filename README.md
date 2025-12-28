@@ -92,4 +92,8 @@ curl -L https://raw.githubusercontent.com/t-kuni/cursor-rules/refs/heads/main/ta
 
 # 🟦 運用フロー
 
+以下のフローに従って前述のプロンプト郡を活用する
+
+* 青い破線を跨ぐタイミングでコンテキストをリセットする
+
 ![運用フローチャート](./flowchart.png)
