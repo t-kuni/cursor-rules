@@ -34,7 +34,7 @@ alwaysApply: true
 
 # コマンド
 
-```
+```bash
 # 差分確認
 git add -A && GIT_PAGER=cat git diff HEAD
 # 直前のコミットの差分確認
